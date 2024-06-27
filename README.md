@@ -1,7 +1,7 @@
 - 👋 Eu sou o Felipe Teodoro
 - 👀 Estou interessado em encontrar minha primeira vaga de emprego
 - 🌱 Estou cursando atualmente ciência de dados e Análise e desenvolvimento de sistemas
-- 💞️ As ferramentas que utilizo atualmente são: Python, R, SQL, Análises estatísticas, 
+- 💞️ As ferramentas que utilizo atualmente são: Python, R, SQL, Excel e Power BI 
 - 📫 61998007536 ou teodorobfelipe@gmail.com
 - ⚡ Conhecimento nunca é demais
 
