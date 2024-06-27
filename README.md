@@ -3,7 +3,7 @@
 - 🌱 Estou cursando atualmente ciência de dados e Análise e desenvolvimento de sistemas
 - 💞️ As ferramentas que utilizo atualmente são: Python, R, SQL, Análises estatísticas, 
 - 📫 61998007536 ou teodorobfelipe@gmail.com
-- ⚡ Conhecimento nunca e demais
+- ⚡ Conhecimento nunca é demais
 
 
 <!---
