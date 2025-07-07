@@ -32,7 +32,7 @@ Aqui estão alguns dos projetos que desenvolvi, demonstrando minhas habilidades 
 ### 1. Pipeline de ETL de Notícias com Airflow, Docker e Selenium
 - **Descrição:** Construí um pipeline de ETL 100% automatizado e containerizado para coletar notícias de tecnologia de diversos portais web. A solução utiliza **Docker** para o ambiente, **Apache Airflow** para orquestração das tarefas, **Selenium** para web scraping de sites dinâmicos e armazena os dados estruturados em um banco de dados **PostgreSQL**, prontos para análise.
 - **Tecnologias:** ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-- **[Ver Repositório](https://github.com/Felipe-teodoro05/Airflow-ETL-Tech-News)**
+- **[Ver Repositório](https://github.com/Felipe-teodoro05/pipeline-ETL-Airflow)**
 
 ---
 
@@ -46,14 +46,14 @@ Aqui estão alguns dos projetos que desenvolvi, demonstrando minhas habilidades 
 ### 3. Dashboard de Análise de Restaurantes com MongoDB & Streamlit
 - **Descrição:** Criei uma plataforma de dados ponta-a-ponta para o setor de restaurantes. A solução usa **MongoDB** para modelar dados complexos (pedidos, avaliações) e um **dashboard interativo em Streamlit** para fornecer insights sobre comportamento do cliente, pratos populares e horários de pico, permitindo a otimização de operações em tempo real.
 - **Tecnologias:** ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-- **[Ver Repositório](https://github.com/Felipe-teodoro05/Dashboard-Restaurante-NoSQL-Streamlit)** | **[Dashboard Interativo](https://dash-restaurante.streamlit.app)**
+- **[Ver Repositório](https://github.com/Felipe-teodoro05/dashboard-restaurante-NoSQL)** | **[Dashboard Interativo](https://dash-restaurante.streamlit.app)**
 
 ---
 
 ### 4. Análise Estatística de Teste A/B para Marketing
 - **Descrição:** Realizei uma análise estatística completa de um teste A/B para duas campanhas de marketing. Utilizando **Python** e testes de hipótese (**Teste Z**), identifiquei um trade-off: uma campanha era melhor para atrair cliques (topo de funil), enquanto a outra era mais eficiente na conversão em vendas (fundo de funil). A recomendação final foi uma **estratégia híbrida** para otimizar o ROI.
 - **Tecnologias:** ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-- **[Ver Repositório](https://github.com/Felipe-teodoro05/Analise_de_Teste_AB)**
+- **[Ver Repositório](https://github.com/Felipe-teodoro05/analise-teste-AB)**
 
 ---
 
