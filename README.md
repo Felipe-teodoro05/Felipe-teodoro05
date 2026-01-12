@@ -1,11 +1,11 @@
 <div align="center" style="background-color:#385E8A; color:#FFFFFF; padding:20px; border-radius: 10px;">
   <h1 style="margin:0;">Felipe Teodoro</h1>
-  <p style="margin:0; font-size:1.2em;">Analista de Dados Júnior</p>
+  <p style="margin:0; font-size:1.2em;">Analytics Engineer | Data Engineering & BI | Python, SQL & Airflow | Focado em Automação & ROI</p>
 </div>
 
 <div align="center">
 
-Analista de Dados apaixonado por desvendar as histórias que os números contam. Meu foco é utilizar Python, SQL e ferramentas de BI para transformar dados em insights acionáveis que impulsionem decisões de negócio.
+Analytics Engineer apaixonado por desvendar as histórias que os números contam. Meu foco é utilizar Python, SQL e ferramentas de BI para transformar dados em insights acionáveis que impulsionem decisões de negócio.
 
 *Atualmente, aprofundando meus conhecimentos em **Cloud (GCP), modelagem preditiva e orquestração de dados com Airflow**.*
 
